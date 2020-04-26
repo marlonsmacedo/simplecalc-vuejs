@@ -1,6 +1,6 @@
 # Calculadora simples - Vuejs
 
-Calculadora Simples me VueJS
+Calculadora Simples em VueJS
 
 Desingn baseado na Calculadora do Linux Deepin (deepin-calculator).
 
