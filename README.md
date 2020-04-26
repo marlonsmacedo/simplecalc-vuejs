@@ -1,8 +1,7 @@
-# Calculadora simples - Vuejs
+# simplecalc-vuejs
 
-Calculadora Simples em VueJS
-
-Desingn baseado na Calculadora do Linux Deepin (deepin-calculator).
+Calculadora simples em JavaScript usando Vuejs.
+Seu Desingn foi baseado na Calculadora do Linux Deepin (deepin-calculator).
 
 ![calculadora simples em Vue](https://photos.app.goo.gl/AGj1HcEs4W9BFVus8)
 
@@ -19,3 +18,5 @@ Código simples realizado durante aprendizado do Vuejs.
   ### Objetivos:
  --  Aplicar os conhecimentos adquiridos.
  --  Acelerar a experiência construindo uma aplicação para o mundo real
+
+
